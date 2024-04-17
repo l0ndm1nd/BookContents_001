@@ -1,11 +1,12 @@
-# This is my version of the README
+# This is Lones (lond) version of the README 💙
 
 ---
 
-Make sure to personalize your welcome message with something unique!
+My own Journey to C# programming world for my own modding purposes.
+or torture my friends :)
 
 # BookContents
-Public repo of the Learning C# with Unity 3D book contents
+Public repo of the Learning C# with Unity 3D book contents I found.
 
 ## What's included?
 The contents of this Git Repo are usable for anyone who may or may not have a copy of the _Learning C# with Unity 3D_ book. Of I'd appreciate it if you bought a copy I'll have a link to the Second Edition on Amazon or B&N soon, I understand that it's not something that everyone can afford.
