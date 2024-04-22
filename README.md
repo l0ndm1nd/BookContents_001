@@ -1,8 +1,8 @@
-# This is my version of the README 💙
+# This is Lone's (lond) version of the README 💙
 
 ---
 
-Make sure to personalise it with your own welcome message!
+Hello I am on a journey to learn c# & programming for my own benfiets & projects (while torturing friends :)
 
 # BookContents
 Public repo of the Learning C# with Unity 3D book contents I found.
